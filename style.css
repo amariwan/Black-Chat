@@ -1,0 +1,18 @@
+body {font:12px arial;color: #222;text-align:center;padding:35px; }
+form, p, span {margin:0;padding:0; }
+input { font:12px sparkasse rg;}
+#exit {color:#fff;text-decoration:none; }
+#exit:hover { text-decoration:underline;}
+#chatwindow {box-shadow:5px 5px 5px #444;border-radius:10px;}
+#chatwindow, #loginform {margin:0 auto;padding-bottom:25px;background:#359ECC;width:504px;}
+#loginform { padding-top:18px;color:#fff;border-radius:10px;box-shadow:5px 5px 5px #444;background: #359ECC;}
+#loginform p { margin: 5px;font-weight:bold;}
+#chatbox {text-align:left;margin:0 auto;margin-bottom:25px;padding:10px;height:270px;width:430px;border:1px solid #ACD8F0;overflow:auto;background: #fff;}
+#usermsg {width:395px;border:1px solid #ACD8F0;}
+#submit { width: 60px;}
+.error { color: #ff0000;}
+#menu { padding:12.5px 25px 12.5px 25px;}
+.welcome { float:left;color:#fff;}
+.logout { float:right;}
+.msgln { margin:0 0 2px 0; }
+.msgleft {font-style:italic;margin:0 0 2px 0; }
